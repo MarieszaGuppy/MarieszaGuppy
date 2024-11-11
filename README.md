@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarieszaGuppy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on creating project
 - 📫 How to reach me ...
 
